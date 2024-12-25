@@ -1,0 +1,79 @@
+<details> 
+
+<detail>
+
+<depature> 
+
+<depaturedate>13/12/2024</depaturedate>
+<depaturefrom>Chennai </depaturefrom>
+
+</depature>
+
+<returndate>15/12/2024</returndate>
+
+
+<destination>Goa</destination>
+
+<travellers>5</travellers>
+
+<classes>
+
+
+<economy>1 </economy>
+<premiume>
+
+<business>2 </business>
+ 
+<firstclass>2 </firstclass>
+
+</premiume>
+
+</classes>
+
+
+</detail>
+
+
+<detail>
+
+<depature> 
+
+<depaturedate>"14/12/2024"</depaturedate>
+<depaturefrom>Trichy </depaturefrom>
+
+</depature>
+
+<retrundate>"16/12/2024"</retrundate>
+
+
+<destination>Delhi</destination>
+
+<travellers>9</travellers>
+
+<classes>
+
+
+<economy>1 </economy>
+
+<premiume>
+
+<business>5 </business>
+ 
+<firstclass>3 </firstclass>
+
+</premiume>
+
+</classes>
+
+
+
+</detail>
+
+
+
+
+
+
+
+
+</details>
