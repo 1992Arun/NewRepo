@@ -1,0 +1,88 @@
+{
+
+"employee": [
+
+{
+  "id": 101
+},
+
+{
+
+"communication": [
+
+{
+
+"official": "arunkumar@cognizant.com",
+"personal": "arunkumar@gmail.com"
+
+},
+
+{
+
+"personalPhone": 95005879855,
+
+"officialPhone": 21587876
+
+},
+
+{
+
+"address":[
+
+{
+
+"parmanentAddress":"Tindivanam",
+
+"currectAddress": "Chennai"
+
+}
+
+]
+
+}
+
+
+],
+
+
+
+"salary":1000
+
+
+
+}
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

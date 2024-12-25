@@ -1,0 +1,30 @@
+[[
+		{
+			"id": 101,
+			"salary": 1000
+		},
+		{
+			"communication": [
+				{
+					"address": [
+						{
+							"parmanentAddress": "Tindivanam",
+							"currectAddress": "Chennai"
+						}
+					]
+				},
+				{
+					"official": "arunkumar@cognizant.com",
+					"personal": "arunkumar@gmail.com"
+				},
+				{
+					"personalPhone": 95005879855,
+					"officialPhone": 21587876
+				},
+				{
+					
+				}
+			]
+		}
+	]
+]

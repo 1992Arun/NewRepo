@@ -1,0 +1,43 @@
+{
+
+"manager":[
+
+{
+   "mfirstName": "Anna",
+   "mlastName": "smit"
+},
+
+{
+   "mfirstName": "peter",
+   "mlastName": "jones"
+},
+
+{
+   "mfirstName": "john",
+   "mlastName": "peter"
+}
+
+],
+
+
+"employee":[
+
+{
+   "efirstName": "Kevin",
+   "elastName": "Francies"
+},
+
+{
+   "efirstName": "David",
+   "elastName": "Wills"
+},
+
+{
+    "efirstName": "Mathiew",
+   "elastName":  "Wright"
+}
+
+]
+
+
+}
