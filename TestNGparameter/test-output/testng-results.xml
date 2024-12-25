@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36357" started-at="2024-12-21T04:26:51Z" finished-at="2024-12-21T04:27:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36357" started-at="2024-12-21T04:26:51Z" finished-at="2024-12-21T04:27:28Z">
+      <class name="org.test.Parameters">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.test.Parameters@22a67b4]" name="beforeClass" is-config="true" duration-ms="16" started-at="2024-12-21T09:56:51Z" finished-at="2024-12-21T09:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.test.Parameters@22a67b4]" name="test" duration-ms="10538" started-at="2024-12-21T09:56:51Z" data-provider="location" finished-at="2024-12-21T09:57:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sydney]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hotel Sunshine]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Standard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.test.Parameters@22a67b4]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2024-12-21T09:56:51Z" finished-at="2024-12-21T09:56:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.test.Parameters@22a67b4]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2024-12-21T09:57:02Z" finished-at="2024-12-21T09:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.test.Parameters@22a67b4]" name="test" duration-ms="12886" started-at="2024-12-21T09:57:02Z" data-provider="location" finished-at="2024-12-21T09:57:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Los Angeles]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hotel Hervey]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Double]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="after()[pri:0, instance:org.test.Parameters@22a67b4]" name="after" is-config="true" duration-ms="0" started-at="2024-12-21T09:57:02Z" finished-at="2024-12-21T09:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="after()[pri:0, instance:org.test.Parameters@22a67b4]" name="after" is-config="true" duration-ms="0" started-at="2024-12-21T09:57:15Z" finished-at="2024-12-21T09:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.test.Parameters@22a67b4]" name="test" duration-ms="12917" started-at="2024-12-21T09:57:15Z" data-provider="location" finished-at="2024-12-21T09:57:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hotel Cornice]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Deluxe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.test.Parameters@22a67b4]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2024-12-21T09:57:15Z" finished-at="2024-12-21T09:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="after()[pri:0, instance:org.test.Parameters@22a67b4]" name="after" is-config="true" duration-ms="0" started-at="2024-12-21T09:57:28Z" finished-at="2024-12-21T09:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.test.Parameters@22a67b4]" name="afterClass" is-config="true" duration-ms="0" started-at="2024-12-21T09:57:28Z" finished-at="2024-12-21T09:57:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.test.Parameters -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
