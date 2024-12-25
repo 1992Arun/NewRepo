@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+	<student>
+		<id>212</id>
+		<name>Arun</name>
+		<age>20</age>
+		<names>
+			<firstName>Arun</firstName>
+			<lastName>kumar</lastName>
+		</names>
+		<communication>
+			<email>
+				<official>arunkumar@cognizant.com</official>
+				<personal>arunkumar@gmail.com</personal>
+			</email>
+		</communication>
+		<phon>9500587985</phon>
+	</student>
+	<student>
+		<id>792</id>
+		<name>Kevin</name>
+		<age>30</age>
+		<names>
+			<firstName>Kevin</firstName>
+			<lastName>k</lastName>
+		</names>
+		<communication>
+			<email>
+				<official>kevin@cognizant.com</official>
+				<personal>kevin@gmail.com</personal>
+			</email>
+		</communication>
+		<phon>9500587985</phon>
+	</student>
+</students>
