@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103" started-at="2024-12-19T11:36:31Z" finished-at="2024-12-19T11:36:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103" started-at="2024-12-19T11:36:31Z" finished-at="2024-12-19T11:36:31Z">
+      <class name="org.data.DataProviders">
+        <test-method status="PASS" signature="textA1(java.lang.String, java.lang.String)[pri:0, instance:org.data.DataProviders@4cf777e8]" name="textA1" duration-ms="26" started-at="2024-12-19T17:06:31Z" data-provider="login" finished-at="2024-12-19T17:06:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2323]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textA1 -->
+        <test-method status="PASS" signature="textA1(java.lang.String, java.lang.String)[pri:0, instance:org.data.DataProviders@4cf777e8]" name="textA1" duration-ms="2" started-at="2024-12-19T17:06:31Z" data-provider="login" finished-at="2024-12-19T17:06:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vidamuyarch]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1213]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textA1 -->
+        <test-method status="PASS" signature="textA2()[pri:0, instance:org.data.DataProviders@4cf777e8]" name="textA2" duration-ms="2" started-at="2024-12-19T17:06:31Z" finished-at="2024-12-19T17:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textA2 -->
+        <test-method status="PASS" signature="textA3()[pri:0, instance:org.data.DataProviders@4cf777e8]" name="textA3" duration-ms="1" started-at="2024-12-19T17:06:31Z" finished-at="2024-12-19T17:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textA3 -->
+      </class> <!-- org.data.DataProviders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
