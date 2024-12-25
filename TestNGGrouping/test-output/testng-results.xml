@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41" started-at="2024-12-24T11:05:40Z" finished-at="2024-12-24T11:05:40Z">
+    <groups>
+      <group name="Retest">
+        <method signature="A.test7()[pri:0, instance:org.test.A@4439f31e]" name="test7" class="org.test.A"/>
+        <method signature="B.test7()[pri:0, instance:org.test.B@5d5eef3d]" name="test7" class="org.test.B"/>
+      </group> <!-- Retest -->
+      <group name="Regression">
+        <method signature="A.test4()[pri:0, instance:org.test.A@4439f31e]" name="test4" class="org.test.A"/>
+        <method signature="A.test6()[pri:0, instance:org.test.A@4439f31e]" name="test6" class="org.test.A"/>
+        <method signature="B.test4()[pri:0, instance:org.test.B@5d5eef3d]" name="test4" class="org.test.B"/>
+        <method signature="B.test6()[pri:0, instance:org.test.B@5d5eef3d]" name="test6" class="org.test.B"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Test" duration-ms="41" started-at="2024-12-24T11:05:40Z" finished-at="2024-12-24T11:05:40Z">
+      <class name="org.test.B">
+        <test-method status="PASS" signature="test4()[pri:0, instance:org.test.B@5d5eef3d]" name="test4" duration-ms="1" started-at="2024-12-24T16:35:40Z" finished-at="2024-12-24T16:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:org.test.B@5d5eef3d]" name="test6" duration-ms="1" started-at="2024-12-24T16:35:40Z" finished-at="2024-12-24T16:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="test7()[pri:0, instance:org.test.B@5d5eef3d]" name="test7" duration-ms="1" started-at="2024-12-24T16:35:40Z" finished-at="2024-12-24T16:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+      </class> <!-- org.test.B -->
+      <class name="org.test.A">
+        <test-method status="PASS" signature="test4()[pri:0, instance:org.test.A@4439f31e]" name="test4" duration-ms="12" started-at="2024-12-24T16:35:40Z" finished-at="2024-12-24T16:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:org.test.A@4439f31e]" name="test6" duration-ms="1" started-at="2024-12-24T16:35:40Z" finished-at="2024-12-24T16:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="test7()[pri:0, instance:org.test.A@4439f31e]" name="test7" duration-ms="2" started-at="2024-12-24T16:35:40Z" finished-at="2024-12-24T16:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+      </class> <!-- org.test.A -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
